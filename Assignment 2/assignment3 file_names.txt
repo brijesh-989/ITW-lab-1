@@ -1,0 +1,14 @@
+1.for file 1 input test.txt
+2.input file name test.txt
+3.input file name test3.txt
+4.input file name test.txt
+5.input file name test.txt
+6.input file name test.txt
+7.input file name test.txt
+8.input file name test.txt
+9.input file name test9.txt
+10.input file name f1.txt,f2.txt,f3.txt
+11.input file name test.txt
+12.....
+13.input file name test.txt
+14 ......................

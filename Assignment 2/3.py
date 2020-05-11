@@ -1,0 +1,7 @@
+s=input("Enter the file name :")
+f=open(s,'a+')
+a=input('Enter the content which to be append :')
+f.write(a)
+f=open(s,'r')
+print(f.read())
+f.close()
